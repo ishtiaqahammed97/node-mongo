@@ -1,0 +1,1 @@
+# Node-mongo learning project
